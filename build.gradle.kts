@@ -81,7 +81,7 @@ val serviceVerCode by extra(101)
 val minBackupVerCode by extra(65)
 
 @Suppress("unused")
-val appPackageName by extra("org.frknkrc44.hma_oss")
+val appPackageName by extra("com.debin.hma_oss")
 
 @Suppress("unused")
 val localBuild by extra(localProperties.getProperty("localBuild", "false") == "true")
