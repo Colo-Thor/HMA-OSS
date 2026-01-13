@@ -31,7 +31,7 @@ import icu.nullptr.hidemyapplist.ui.util.showToast
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import org.frknkrc44.hma_oss.BuildConfig
+import com.debin.hma_oss.BuildConfig
 import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentHomeBinding
 import java.io.IOException

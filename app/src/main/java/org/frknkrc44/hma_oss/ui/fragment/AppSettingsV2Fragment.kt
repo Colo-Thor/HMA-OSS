@@ -36,7 +36,7 @@ import icu.nullptr.hidemyapplist.ui.util.showToast
 import icu.nullptr.hidemyapplist.ui.util.withAnimations
 import icu.nullptr.hidemyapplist.ui.viewmodel.AppSettingsViewModel
 import icu.nullptr.hidemyapplist.util.PackageHelper
-import org.frknkrc44.hma_oss.BuildConfig
+import com.debin.hma_oss.BuildConfig
 import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentSettingsBinding
 import org.frknkrc44.hma_oss.databinding.LayoutListEmptyBinding

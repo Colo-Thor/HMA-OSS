@@ -18,7 +18,7 @@ import icu.nullptr.hidemyapplist.data.AppConstants.allAppIcons
 import icu.nullptr.hidemyapplist.service.PrefManager
 import icu.nullptr.hidemyapplist.ui.util.ThemeUtils.asDrawable
 import icu.nullptr.hidemyapplist.util.PackageHelper.findEnabledAppComponent
-import org.frknkrc44.hma_oss.BuildConfig
+import com.debin.hma_oss.BuildConfig
 import com.debin.hma_oss.R
 
 
