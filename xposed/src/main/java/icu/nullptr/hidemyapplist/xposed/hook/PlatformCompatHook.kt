@@ -12,7 +12,7 @@ import icu.nullptr.hidemyapplist.xposed.XposedConstants.PLATFORM_COMPAT_CLASS
 import icu.nullptr.hidemyapplist.xposed.logD
 import icu.nullptr.hidemyapplist.xposed.logE
 import icu.nullptr.hidemyapplist.xposed.logI
-import org.frknkrc44.hma_oss.common.BuildConfig
+import com.debin.hma_oss.common.BuildConfig
 
 @RequiresApi(Build.VERSION_CODES.R)
 class PlatformCompatHook(private val service: HMAService) : IFrameworkHook {

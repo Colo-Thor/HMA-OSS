@@ -21,7 +21,7 @@ import icu.nullptr.hidemyapplist.ui.util.navController
 import icu.nullptr.hidemyapplist.ui.util.setEdge2EdgeFlags
 import icu.nullptr.hidemyapplist.util.PackageHelper.findEnabledAppComponent
 import org.frknkrc44.hma_oss.R
-import org.frknkrc44.hma_oss.common.BuildConfig
+import com.debin.hma_oss.common.BuildConfig
 import org.frknkrc44.hma_oss.databinding.FragmentAboutBinding
 import org.frknkrc44.hma_oss.databinding.FragmentAboutListItemBinding
 import org.json.JSONObject

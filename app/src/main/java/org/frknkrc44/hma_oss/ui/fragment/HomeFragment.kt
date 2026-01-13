@@ -132,7 +132,7 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
             }
 
             if (serviceVersion != 0) {
-                if (serviceVersion < org.frknkrc44.hma_oss.common.BuildConfig.SERVICE_VERSION) {
+                if (serviceVersion < com.debin.hma_oss.common.BuildConfig.SERVICE_VERSION) {
                     serviceStatus.text =
                         getString(R.string.home_xposed_service_old)
                 } else {
