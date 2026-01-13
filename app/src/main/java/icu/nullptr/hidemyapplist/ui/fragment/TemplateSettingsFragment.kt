@@ -20,7 +20,7 @@ import icu.nullptr.hidemyapplist.ui.util.setEdge2EdgeFlags
 import icu.nullptr.hidemyapplist.ui.util.setupToolbar
 import icu.nullptr.hidemyapplist.ui.viewmodel.TemplateSettingsViewModel
 import kotlinx.coroutines.launch
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentTemplateSettingsBinding
 
 class TemplateSettingsFragment : Fragment(R.layout.fragment_template_settings) {

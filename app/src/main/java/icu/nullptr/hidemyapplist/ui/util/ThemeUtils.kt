@@ -12,7 +12,7 @@ import androidx.core.content.res.ResourcesCompat
 import androidx.fragment.app.Fragment
 import com.google.android.material.color.DynamicColors
 import icu.nullptr.hidemyapplist.service.PrefManager
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 
 object ThemeUtils {
     private val colorThemeMap = mapOf(

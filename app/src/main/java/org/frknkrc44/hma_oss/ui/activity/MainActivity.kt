@@ -16,7 +16,7 @@ import icu.nullptr.hidemyapplist.service.ServiceClient
 import icu.nullptr.hidemyapplist.ui.util.ThemeUtils
 import icu.nullptr.hidemyapplist.util.ConfigUtils
 import org.frknkrc44.hma_oss.BuildConfig
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

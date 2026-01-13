@@ -17,7 +17,7 @@ import icu.nullptr.hidemyapplist.ui.util.navController
 import icu.nullptr.hidemyapplist.ui.util.setEdge2EdgeFlags
 import icu.nullptr.hidemyapplist.ui.util.setupToolbar
 import kotlinx.coroutines.flow.MutableSharedFlow
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentEditSettingBinding
 
 class EditSettingFragment : Fragment(R.layout.fragment_edit_setting) {

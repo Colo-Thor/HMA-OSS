@@ -22,7 +22,7 @@ import icu.nullptr.hidemyapplist.ui.util.navigate
 import icu.nullptr.hidemyapplist.ui.util.setEdge2EdgeFlags
 import icu.nullptr.hidemyapplist.ui.util.setupToolbar
 import kotlinx.coroutines.launch
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentTemplateSettingsBinding
 import org.frknkrc44.hma_oss.ui.util.toTargetSettingList
 import org.frknkrc44.hma_oss.ui.viewmodel.SettingsTemplateConfViewModel

@@ -32,7 +32,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import org.frknkrc44.hma_oss.BuildConfig
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentHomeBinding
 import java.io.IOException
 import java.text.SimpleDateFormat

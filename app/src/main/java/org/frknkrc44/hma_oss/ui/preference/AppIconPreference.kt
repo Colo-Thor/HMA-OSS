@@ -19,7 +19,7 @@ import icu.nullptr.hidemyapplist.service.PrefManager
 import icu.nullptr.hidemyapplist.ui.util.ThemeUtils.asDrawable
 import icu.nullptr.hidemyapplist.util.PackageHelper.findEnabledAppComponent
 import org.frknkrc44.hma_oss.BuildConfig
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 
 
 @Suppress("deprecation")

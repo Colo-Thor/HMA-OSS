@@ -9,7 +9,7 @@ import icu.nullptr.hidemyapplist.common.SettingsPresets
 import icu.nullptr.hidemyapplist.service.ConfigManager
 import icu.nullptr.hidemyapplist.ui.view.ListItemView
 import org.frknkrc44.hma_oss.BuildConfig
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 
 class AppPresetListAdapter(
     context: Context,

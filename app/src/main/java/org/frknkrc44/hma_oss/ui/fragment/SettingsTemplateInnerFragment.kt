@@ -14,7 +14,7 @@ import icu.nullptr.hidemyapplist.common.Constants
 import icu.nullptr.hidemyapplist.common.Utils.generateRandomHex
 import icu.nullptr.hidemyapplist.common.settings_presets.ReplacementItem
 import icu.nullptr.hidemyapplist.ui.util.navigate
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.ui.adapter.SettingsTemplateListAdapter
 import org.frknkrc44.hma_oss.ui.util.toEditSettingFragmentArgs
 import org.frknkrc44.hma_oss.ui.util.toTargetSettingList

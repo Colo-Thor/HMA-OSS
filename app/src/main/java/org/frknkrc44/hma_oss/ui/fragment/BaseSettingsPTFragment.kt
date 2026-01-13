@@ -10,7 +10,7 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import icu.nullptr.hidemyapplist.ui.util.navController
 import icu.nullptr.hidemyapplist.ui.util.setEdge2EdgeFlags
 import icu.nullptr.hidemyapplist.ui.util.setupToolbar
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.FragmentSettingsPtBaseBinding
 import org.frknkrc44.hma_oss.ui.adapter.BaseSettingsPTAdapter
 

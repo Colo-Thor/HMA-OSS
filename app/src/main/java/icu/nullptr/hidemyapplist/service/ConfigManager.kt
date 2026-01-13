@@ -9,7 +9,7 @@ import icu.nullptr.hidemyapplist.service.ConfigManager.PTType.APP
 import icu.nullptr.hidemyapplist.service.ConfigManager.PTType.SETTINGS
 import icu.nullptr.hidemyapplist.ui.util.showToast
 import icu.nullptr.hidemyapplist.util.PackageHelper
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import com.debin.hma_oss.common.BuildConfig
 import java.io.File
 

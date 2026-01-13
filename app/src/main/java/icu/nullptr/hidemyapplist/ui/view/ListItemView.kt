@@ -9,7 +9,7 @@ import androidx.core.view.isVisible
 import by.kirich1409.viewbindingdelegate.CreateMethod
 import by.kirich1409.viewbindingdelegate.viewBinding
 import icu.nullptr.hidemyapplist.ui.util.ThemeUtils.themeColor
-import org.frknkrc44.hma_oss.R
+import com.debin.hma_oss.R
 import org.frknkrc44.hma_oss.databinding.ListItemViewBinding
 
 class ListItemView @JvmOverloads constructor(
